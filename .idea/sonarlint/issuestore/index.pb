@@ -1,19 +1,3 @@
 
-J
-src/TransportistaSeul.java,6\2\6256c36ff6d66b2183e7fa66d3f8c58a73ded6d2
-J
-src/TransportistaFede.java,1\b\1b89541b9db5410ecc126047e4dbd784551ebbb9
->
-src/Punto.java,5\9\591f099804b8c3dcba734acbbc338e6d72e0a057
-B
-src/Distancia.java,4\b\4b3b7139a856c7f8cffe024f8f28e8b96b1d9ace
-S
-#src/EnvioNoDisponibleException.java,e\c\ec339b5ad538f1635fdb62ab0645860403e7201e
-F
-src/Transportista.java,d\5\d5c303e636dc98dfc41aa47df8b0456412df918c
-J
-src/DistanciaEuclidea.java,e\d\ed6dc68b599d54da840ccf418f071120ffc9bd0b
 D
-src/MainAlumno1.java,a\6\a6a462e17add0156c344c6509439bbc41fbc46c1
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+src/MainAlumno2.java,c\1\c1aa7be847143f0381a0578ec2da4d212e5c4b2e
