@@ -17,5 +17,4 @@ public class TransportistaSeul extends Transportista {
             throw new IllegalArgumentException("Peso de " + peso + " Kg no está soportado");
         }
     }
-
 }
